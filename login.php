@@ -99,7 +99,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 
 
   <!--<div class="container my-4">
-    <h1 class="text-center"> LogIn for Vaccine Registration</h1>
+    <h1 class="text-center"> SignIn for Vaccine Registration</h1>
     <form action="/vaccination/login.php" method="post">
   <div class="mb-3 col-md-6">
     <label for="registration_num" class="form-label">registration_num</label>
